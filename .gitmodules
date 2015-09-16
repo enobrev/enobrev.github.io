@@ -1,0 +1,3 @@
+[submodule "DragSWF"]
+	path = DragSWF
+	url = git@github.com:enobrev/DragSWF.git
